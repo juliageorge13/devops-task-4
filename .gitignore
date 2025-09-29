@@ -1,2 +1,18 @@
 "node_modules/"      # example .gitignore lines
 ".env" 
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
